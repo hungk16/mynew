@@ -3,3 +3,7 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/.gitignore
+/.idea
+/css/main.css
+/css/main.css.map
