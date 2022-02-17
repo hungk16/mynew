@@ -1,3 +1,3 @@
 ## MY-NEW
 
-DEMO: https://hungk16.github.io/mynew/
+DEMO: https://brave-cori-a91ed9.netlify.app/
